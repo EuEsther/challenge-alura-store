@@ -27,3 +27,8 @@ Após a análise dos dados, foi recomendado que a **Loja 4 seja vendida**, devid
 - Pior desempenho nas categorias de produtos.
 - Média de avaliação inferior.
 - Produtos com baixa rotatividade.
+
+## 📁 Arquivos do Projeto
+
+- [`AluraStoreBr.ipynb`](./AluraStoreBr.ipynb): Notebook com todo o processo de análise.
+- [`README.md`](./README.md): Este arquivo com descrição do projeto.
