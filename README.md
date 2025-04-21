@@ -28,6 +28,11 @@ Após a análise dos dados, foi recomendado que a **Loja 4 seja vendida**, devid
 - Média de avaliação inferior.
 - Produtos com baixa rotatividade.
 
+## 🚀 Como Executar
+1. Clone o repositório ou baixe os arquivos diretamente.
+2. Abra o notebook AluraStoreBr.ipynb utilizando o Jupyter Notebook ou Google Colab.
+3. Execute as células para reproduzir todas as análises e gráficos.
+
 ## 📁 Arquivos do Projeto
 
 > [`AluraStoreBr.ipynb`](./AluraStoreBr.ipynb): Notebook com todo o processo de análise.
