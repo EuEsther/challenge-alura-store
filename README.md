@@ -30,5 +30,6 @@ Após a análise dos dados, foi recomendado que a **Loja 4 seja vendida**, devid
 
 ## 📁 Arquivos do Projeto
 
-- [`AluraStoreBr.ipynb`](./AluraStoreBr.ipynb): Notebook com todo o processo de análise.
-- [`README.md`](./README.md): Este arquivo com descrição do projeto.
+> [`AluraStoreBr.ipynb`](./AluraStoreBr.ipynb): Notebook com todo o processo de análise.
+
+> [`README.md`](./README.md): Este arquivo com descrição do projeto.
