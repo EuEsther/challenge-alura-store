@@ -1,10 +1,10 @@
-# 🛍️ Alura Store - Desafio de Data Science
+# 🛒 Alura Store - Desafio de Data Science
 
 ## 📌 Objetivo
 
 O desafio consiste em analisar o desempenho de quatro lojas da Alura Store, com o objetivo de identificar qual delas apresenta os piores resultados e, portanto, deveria ser vendida. As análises incluem faturamento, vendas por categoria, avaliações das lojas, produtos mais e menos vendidos e frete médio por loja.
 
-## 🧪 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **Python**: Linguagem principal para manipulação e análise de dados.
 - **Pandas**: Biblioteca para análise e manipulação de dados.
